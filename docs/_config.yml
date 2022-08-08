@@ -28,7 +28,7 @@ twitter_username: rjhoyle
 github_username:  rjhoyle
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 # remote_theme: pages-themes/merlot@0.2.0
 # remote_theme: pages-themes/midnight@v0.2.0
 # theme: merlot
