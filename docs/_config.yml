@@ -22,13 +22,13 @@ title: CSCI 344 - Privacy and Anonymity
 email: roberto.hoyle@oberlin.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course syllabus for Privacy Seminar
-baseurl: "/cs241-fall2022" # the subpath of your site, e.g. /blog
+baseurl: "/cs344-fall2022" # the subpath of your site, e.g. /blog
 url: "https://rjhoyle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rjhoyle
 github_username:  rjhoyle
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 # remote_theme: pages-themes/merlot@0.2.0
 # remote_theme: pages-themes/midnight@v0.2.0
 # theme: merlot
