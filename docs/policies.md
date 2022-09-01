@@ -26,6 +26,8 @@ permalink: /policies/
     The distribution might be adjusted based on the progression of the course.
 </p>
 
+Students who abandon their groups and do not do work on the final project will automatically fail the class, regardless of the rest of their grade.
+
 
 ## Attendance
 As this is a seminar class, regular class attendance and participation are required.  There will be a maximum of 2 unexcused absences, and afterwards, they will impact your course grade.  There will be a sign-in poll at the start of class every day.
@@ -70,6 +72,7 @@ Projects will be graded with the following breakdown:
 
 More details will be provided about the projects soon
 
+As stated above, the final project is not optional, and students who do not participate  in their groups will fail automatically regardless of the rest of their grade.
 
 ## Accommodations for students with disabilities
 
