@@ -38,3 +38,6 @@ My goals and objectives for students taking this course are as follows:
 1. Develop expertise in a research project
 1. Develop technical writing skills in the sciences
 1. Understand issues surrounding privacy and security as they apply to social networks and society at large
+1. Make judgments and draw appropriate conclusions based on the quantitative and/or formal analysis of data
+1. Identify the assumptions within formal reasoning / mathematical methods; assess the reliability, generalizability, and uncertainty of conclusions; recognize the risks of using methods improperly
+1. Relay results in a manner appropriate to the audience using suitable terminology, symbols, and conventions

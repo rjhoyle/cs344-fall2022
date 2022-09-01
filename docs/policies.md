@@ -73,19 +73,30 @@ More details will be provided about the projects soon
 
 ## Accommodations for students with disabilities
 
-If you have a <a href="http://www.oberlin.edu/learning/SSDmissionandservices.html">disability
-that might impact your performance in this course, or requires special
-accommodation</a>, please contact me as soon as possible so that
-appropriate arrangements can be made.
-Support is available through <a href="http://www.oberlin.edu/SSS/">Student
-Academic Services</a>, specifically <a href="http://www.oberlin.edu/learning/contact.html">Jane Boomer</a>.
-You will need to contact them to get your disability documented before
+If you have a disability that might impact your performance in this course, or requires special accommodation, please contact me as soon as possible so that appropriate arrangements can be made.
+You will need to contact the 
+[Office of Disability Access](https://www.oberlin.edu/disability-access) to get your disability documented before
 accommodations can be made.
 
 There is also support available through the Quantitative Skills Center, 
 <a href="http://new.oberlin.edu/office/clear/for-students/drop-in-tutoring/">CLEAR</a>.
 They have drop-in hours where you can ask for assistance on programming assignments from
 other students who have experience.
+
+The Computer Science Department is committed to access in its broadest
+sense of the word. If you identify as a low-income student, and you are
+experiencing challenges with securing funds to purchase required materials
+for this course (books/clickers/a working laptop) you can apply for funding
+support through
+[ObieCares](https://www.oberlin.edu/dean-of-students/initiatives/obiecares)
+
+
+If you are a student who is not diagnosed with a disability but suspect you
+may have one, please reach out to
+(Accessibility Services)[https://www.oberlin.edu/accessibility-services] and choose the red button
+about half way down the page to schedule a 15 minute informational meeting
+with OSAS.
+
 
 
 ## Plagiarism and Academic Dishonesty
