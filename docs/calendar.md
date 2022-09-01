@@ -8,6 +8,8 @@ permalink: /calendar/
 
 ---
 
+##This list is subject to change!
+
 
 Date | Topic | Reading
 | --- | --- | --- |
