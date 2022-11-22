@@ -45,12 +45,12 @@ Nov 08 |Misc|<a href="https://dl.acm.org/citation.cfm?id=3025875">Stories from S
 Nov 10 |Privacy Controls|<a href="https://dl.acm.org/citation.cfm?id=3054926">Nudges for Privacy and Security: Understanding and Assisting Users’ Choices Online</a>**(Amartey,Mary)**
 **Week 10** ||
 Nov 15 |Drones|<a href="https://dl.acm.org/citation.cfm?id=3026049">Free to Fly in Public Spaces: Drone Controllers’ Privacy Perceptions and Practices</a>**(Lucas Draper)**<br>
-Nov 17 |Ethics|<a href="https://www.usenix.org/conference/soups2020/presentation/dev">Lessons Learnt from Comparing WhatsApp Privacy Concerns Across Saudi and Indian Populations</a>**(Aguilar,Emily)**
+Nov 17 |Ethics|
 **Week 11** ||
 Nov 22 |Legal Issues| <a href="https://dl.acm.org/citation.cfm?id=1753561">Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach</a><b>(Jones,Andrea')</b><br><a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234016-dt-content-rid-9629210_1/xid-9629210_1">Privacy</a>**(Sato, Ava)**<br><b></b>
 Nov 24 | Thanksgiving Break (Nov 24 - 27) |
 **Week 12** ||
-Nov 29 |TBD|<a href="http://www.cs.ucsb.edu/~ravenben/publications/pdf/whisper-imc14.pdf">Whispers in the Dark: Analysis of an Anonymous Social Network</a>**(Cha,Maximus)**
+Nov 29 |TBD|<a href="http://www.cs.ucsb.edu/~ravenben/publications/pdf/whisper-imc14.pdf">Whispers in the Dark: Analysis of an Anonymous Social Network</a>**(Cha,Maximus)**</br> <a href="https://www.usenix.org/conference/soups2020/presentation/dev">Lessons Learnt from Comparing WhatsApp Privacy Concerns Across Saudi and Indian Populations</a>**(Aguilar,Emily)**
 Dec 01 |Gender and Sexuality|<a href="https://dl.acm.org/doi/abs/10.1145/3415195">Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site</a>**(Higgins,Seamus)**<br><a href="https://www.usenix.org/conference/soups2020/presentation/geeng">Usable Sexurity: Studying People’s Concerns and Strategies When Sexting</a>**(Sierra,Emilio)**
 **Week&nbsp;13** ||
 Dec 06 ||<a href="https://www.usenix.org/system/files/soups2020-bird.pdf">Replication: Why We Still Can’t Browse in Peace:On the Uniqueness and Reidentifiability of WebBrowsing Histories</a><b>(Duker,Noemi)</b><br/><a href="https://blackboard.oberlin.edu/bbcswebdav/pid-1234017-dt-content-rid-9629211_1/xid-9629211_1">Classification of Private Tweets using Tweet Content</a>**(Zweiback,Jake)**<br><b></b>
